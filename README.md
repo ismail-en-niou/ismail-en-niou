@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ismail-en-niou</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-<p align="center">
-  <img src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" width="400"/>
-</p>
+
 
 
 - 🔭 I’m currently working on [ecomme-site](https://github.com/ismail-en-niou/ecome_site)
