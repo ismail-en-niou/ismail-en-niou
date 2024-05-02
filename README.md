@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ismail-en-niou</h1>
+<h1 align="center">Hi 👋, I'm ismail-en-niou and i'm a Developer with 3 years of expertise in HTML, CSS, JavaScript, DOM, BOM, and Bootstrap , PHP , REACT.js ,node,js</h1>
 <h3 align="center">A passionate frontend developer from Morroco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismail-en-niou&label=Profile%20views&color=0e75b6&style=flat" alt="ismail-en-niou" /> </p>
