@@ -1,6 +1,6 @@
 #### Glad to see you here 
 <p align="center">
-  <img src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif" alt="Ismail-en-niou" />
+  <img src="https://images.squarespace-cdn.com/content/v1/6365ca34d9d2676907679da3/50c822ba-6dc5-4dc1-a3d4-bbca0a3a4c32/hello-world.gif" />
 </p>
 
 # <img src="https://github.com/elon-fask/Elon-Fask/blob/main/img/about_me.gif" width="40px"> **About Me**
