@@ -1,4 +1,3 @@
-#### Glad to see you here 
 <p align="center">
   <img src="https://images.squarespace-cdn.com/content/v1/6365ca34d9d2676907679da3/50c822ba-6dc5-4dc1-a3d4-bbca0a3a4c32/hello-world.gif" />
 </p>
