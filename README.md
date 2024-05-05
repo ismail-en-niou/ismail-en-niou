@@ -6,6 +6,7 @@
 <h2 align="center">
   I'm a FrontEnd developer with 3+ years of experience, Software designer, Founder, and amateur cryptographer 💻. I'm interested in UI/UX design 👨🏻‍💻 and cyber security ✨👨🏻‍🎓.
 </h2>
+<img src='./languages2.png' alt='imge'  /><br/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ismail-en-niou&label=Profile%20views&color=0e75b6&style=flat" alt="ismail-en-niou" />
