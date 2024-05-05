@@ -4,7 +4,7 @@
 
 # <img src="https://github.com/elon-fask/Elon-Fask/blob/main/img/about_me.gif" width="40px"> **About Me**
 <h2 align="center">
-  I'm a FrontEnd developer with 3+ years of experience, Software designer, Founder, and amateur cryptographer 💻. I'm interested in UI/UX design 👨🏻‍💻 and cyber security ✨👨🏻‍🎓.
+  I'm a FrontEnd developer with 2+ years of experience, Software designer, Founder, and amateur cryptographer 💻. I'm interested in UI/UX design 👨🏻‍💻 and cyber security ✨👨🏻‍🎓.
 </h2>
 <img src='./languages2.png' alt='imge'  /><br/>
 
