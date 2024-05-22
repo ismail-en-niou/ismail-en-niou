@@ -23,6 +23,7 @@
   <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/> React.js</li>
   <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/> Node.js</li>
   <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/> PHP</li>
+   <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/> C</li>
   <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> Terminal Commands</li>
 </ul>
 
