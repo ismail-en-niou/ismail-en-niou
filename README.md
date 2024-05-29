@@ -1,11 +1,23 @@
-<p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/6365ca34d9d2676907679da3/50c822ba-6dc5-4dc1-a3d4-bbca0a3a4c32/hello-world.gif" />
-</p>
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header" />
+</a>
+
+![Typing
+SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+ismail+en-niou;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ+💀)
 
 # <img src="https://github.com/elon-fask/Elon-Fask/blob/main/img/about_me.gif" width="40px"> **About Me**
-<h2 align="center">
-  I'm a FrontEnd developer with 2+ years of experience, Software designer, Founder, and amateur cryptographer 💻. I'm interested in UI/UX design 👨🏻‍💻 and cyber security ✨👨🏻‍🎓.
+<h2 align="center" color="midnight-purple">
+  I'm a FULL Stack Dev with 2+ years of experience, Software designer, Founder, and amateur cryptographer 💻. I'm interested in UI/UX design 👨🏻‍💻 and cyber security ✨👨🏻‍🎓.
 </h2>
+
+#  <img src="https://github.com/elon-fask/Elon-Fask/blob/main/img/handshake.gif" width="80"> <b> Let's Connect..!</b> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/ismailenniou" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismailenniou" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ismail-en-niou" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail-en-niou" height="30" width="40" /></a>
+  <a href="https://instagram.com/ismail_enniou" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismail_enniou" height="30" width="40" /></a>
+  <a href="https://discord.gg/ismail8882" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ismail8882" height="30" width="40" /></a>
+</p>
 <img src='./languages2.png' alt='imge'  /><br/>
 
 <p align="left">
@@ -26,17 +38,24 @@
    <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/> C</li>
   <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> Terminal Commands</li>
 </ul>
+<br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ismail-en-niou&show_icons=true&theme=tokyonight" alt="ismail-en-niou's GitHub stats"/>
+  <img width="25%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/ismail-en-niou/KanekiEzz/main/hello/klad_753.gif" />
+ <p>
+ <p><img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=ismail-en-niou&show_icons=true&locale=en&layout=compact&theme=midnight-purple"
+        alt="ismail-en-niou" /></p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-en-niou&theme=tokyonight" alt="Top Languages"/>
+<p><img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=ismail-en-niou&show_icons=true&locale=en&theme=midnight-purple"
+        alt="ismail-en-niou" /></p>
 
-
-## <b> Let's Connect..!</b> <img src="https://github.com/elon-fask/Elon-Fask/blob/main/img/handshake.gif" width="80">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/ismailenniou" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismailenniou" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/ismail-en-niou" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail-en-niou" height="30" width="40" /></a>
-  <a href="https://instagram.com/ismail_enniou" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismail_enniou" height="30" width="40" /></a>
-  <a href="https://discord.gg/ismail8882" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ismail8882" height="30" width="40" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismail-en-niou&theme=midnight-purple"
+        alt="ismail-en-niou" /></p>   
 </p>
+
+
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer" />
+</a>
+
