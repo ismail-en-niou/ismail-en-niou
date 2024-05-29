@@ -3,7 +3,7 @@
 </a>
 
 ![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+ismail+en-niou;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ+💀)
+SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+ismail+en-niou;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 
 # <img src="https://github.com/elon-fask/Elon-Fask/blob/main/img/about_me.gif" width="40px"> **About Me**
 <h2 align="center" color="midnight-purple">
