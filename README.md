@@ -25,19 +25,22 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
 </p>
 
 ## My Skills:
-<ul>
-  <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/> HTML</li>
-  <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/> CSS</li>
-  <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> JavaScript</li>
-  <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/> Bootstrap</li>
-  <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> Git & GitHub</li>
-  <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/> SQL</li>
-  <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/> React.js</li>
-  <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/> Node.js</li>
-  <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/> PHP</li>
-   <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/> C</li>
-  <li><img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> Terminal Commands</li>
-</ul>
+<div>
+  <img style="margin-left: 10;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/> 
+  <img style="margin-left: 10;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"/> 
+  <img style="margin-left: 10;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"/> 
+  <img style="margin-left: 10;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/> 
+  <img style="margin-left: 10;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> 
+  <img style="margin-left: 10;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/> 
+  <img style="margin-left: 10;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> 
+  <img style="margin-left: 10;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/> 
+  <img style="margin-left: 10;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/> 
+  <img style="margin-left: 10;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/> 
+  <img style="margin-left: 10;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/> 
+  <img style="margin-left: 10;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+  <img style="margin-left: 10;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> 
+</div>
+
 <br>
 
   <img width="25%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/ismail-en-niou/KanekiEzz/main/hello/klad_753.gif" />
