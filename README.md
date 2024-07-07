@@ -33,6 +33,10 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
   <img style="margin-left: 10;" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> 
   <img style="margin-left: 10;" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/> 
   <img style="margin-left: 10;" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> 
+</div>
+
+## 
+<div>
   <img style="margin-left: 10;" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/> 
   <img style="margin-left: 10;" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/> 
   <img style="margin-left: 10;" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/> 
