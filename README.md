@@ -18,11 +18,6 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
   <a href="https://instagram.com/ismail_enniou" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismail_enniou" height="30" width="40" /></a>
   <a href="https://discord.gg/ismail8882" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ismail8882" height="30" width="40" /></a>
 </p>
-<img src='./languages2.png' alt='imge'  /><br/>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ismail-en-niou&label=Profile%20views&color=0e75b6&style=flat" alt="ismail-en-niou" />
-</p>
 
 ## My Skills:
 <div>
@@ -47,7 +42,9 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
 </div>
 
 <br>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ismail-en-niou&label=Profile%20views&color=0e75b6&style=flat" alt="ismail-en-niou" />
+</p>
   <img width="25%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/ismail-en-niou/KanekiEzz/main/hello/klad_753.gif" />
  <p>
  <p><img align="center"
