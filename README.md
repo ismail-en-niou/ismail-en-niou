@@ -7,7 +7,8 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
 
 # <img src="https://github.com/elon-fask/Elon-Fask/blob/main/img/about_me.gif" width="40px"> **About Me**
 <h2 align="center" color="midnight-purple">
-  I'm a FULL Stack Dev with 2+ years of experience, Software designer, Founder, and amateur cryptographer 💻. I'm interested in UI/UX design 👨🏻‍💻 and cyber security ✨👨🏻‍🎓.
+ Hello! I’m Ismail Enniou, a dedicated Fullstack Developer with over two years of experience in the tech industry. My journey extends beyond just writing code — I’m also deeply involved in startup development, software design, and cryptography.
+I’m not just a developer — I’m a co-founder and leader driving innovation in the tech startup ecosystem. Through my startup Robixe, I’m committed to building solutions that empower businesses to thrive in the digital world.
 </h2>
 
 #  <img src="https://github.com/elon-fask/Elon-Fask/blob/main/img/handshake.gif" width="80"> <b> Let's Connect..!</b> 
