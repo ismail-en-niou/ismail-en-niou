@@ -11,7 +11,12 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
 I’m not just a developer — I’m a co-founder and leader driving innovation in the tech startup ecosystem. Through my startup Robixe, I’m committed to building solutions that empower businesses to thrive in the digital world.
 </h2>
 
-#  <img src="https://github.com/elon-fask/Elon-Fask/blob/main/img/handshake.gif" width="80"> <b> Let's Connect..!</b> 
+<!-- Add MediaPlus Badge -->
+<p align="center">
+  <a href="https://badge.mediaplus.ma/kettlebells/ien-niou" target="_blank">
+    <img src="https://badge.mediaplus.ma/darkblue/ien-niou" alt="MediaPlus Badge">
+  </a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/ismailenniou" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismailenniou" height="30" width="40" /></a>
@@ -64,4 +69,3 @@ I’m not just a developer — I’m a co-founder and leader driving innovation 
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer" />
 </a>
-
