@@ -12,11 +12,6 @@ I’m not just a developer — I’m a co-founder and leader driving innovation 
 </h2>
 
 <!-- Add MediaPlus Badge -->
-<p align="center">
-  <a href="https://badge.mediaplus.ma/kettlebells/ien-niou" target="_blank">
-    <img src="https://badge.mediaplus.ma/darkblue/ien-niou" alt="MediaPlus Badge">
-  </a>
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/ismailenniou" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismailenniou" height="30" width="40" /></a>
