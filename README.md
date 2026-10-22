@@ -1,14 +1,3 @@
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ismail-en-niou&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge" alt="profile views" /> 
-  •
-  <img src="https://img.shields.io/github/followers/ismail-en-niou?color=00ff88&label=FOLLOWERS&style=for-the-badge" alt="followers" />
-  •
-  <img src="https://img.shields.io/github/stars/ismail-en-niou?color=00ff88&label=STARS&style=for-the-badge" alt="stars" />
-</p>
-
----
-
 # <img src="https://github.com/elon-fask/Elon-Fask/blob/main/img/about_me.gif" width="40px"> About Me  
 
 <h3 align="center">
