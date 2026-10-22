@@ -1,8 +1,4 @@
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=160&section=header&animation=scale&fontSize=90&fontColor=ffffff&fontAlignY=40&descAlignY=65&descAlign=60&text=Ismail%20En-Niou&desc=Full-Stack%20Developer" />
-</a>
 
-<!-- Profile Views & Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ismail-en-niou&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge" alt="profile views" /> 
   •
