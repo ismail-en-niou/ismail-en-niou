@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  Full-Stack Developer | Software Engineer | Problem Solver
+  Software Engineer | Problem Solver
 </p>
 
 <p align="center">
